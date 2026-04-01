@@ -157,6 +157,34 @@ source_files:
 
 ---
 
+## MkDocs Sync Rule（必須遵守）
+
+**任何內容變動後**，必須詢問使用者：
+
+> 「這項變動是否需要同步更新到 `docs/` 對外網站？」
+
+觸發條件（以下任一）：
+- 修改了 `01_curriculum/*.md`（課程內容）
+- 修改了 `04_business/pricing.md` 或 `discounts.md`（定價）
+- 修改了 `04_business/partner-model.md` 或 `revenue-share.md`（合作方案）
+- 修改了 `05_marketing/*.md`（行銷內容）
+- 新增了可對外呈現的課程說明或 FAQ 內容
+
+同步邏輯：
+- `docs/courses/level-*.md` 對應來源：`01_curriculum/level-*.md` + `04_business/pricing.md`
+- `docs/pricing.md` 對應來源：`04_business/pricing.md` + `04_business/discounts.md`
+- `docs/partner.md` 對應來源：`04_business/partner-model.md` + `04_business/revenue-share.md`
+- `docs/faq.md` 對應來源：`05_marketing/faq.md`
+- `docs/index.md` 對應來源：`00_project/project-overview.md` + `01_curriculum/curriculum-map.md`
+
+確認同步後：
+1. 更新對應的 `docs/` 檔案
+2. 執行 `git add` + `git commit` + `git push`（GitHub Actions 會自動重新部署網站）
+
+**不得自行同步，也不得跳過詢問步驟。**
+
+---
+
 ## Do Not
 
 - 不要自行改動已鎖定的定價、分潤、週數、時數

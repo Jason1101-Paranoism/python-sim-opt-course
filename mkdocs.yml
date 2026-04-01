@@ -1,0 +1,54 @@
+site_name: Python Simulation & Optimization Pathway
+site_description: 從模擬入門到 Research Capstone 的完整學習路徑
+site_author: Jason
+
+theme:
+  name: material
+  language: zh-TW
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: 切換暗色模式
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: 切換亮色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+nav:
+  - 課程總覽: index.md
+  - 課程介紹:
+    - Level 1：模擬入門: courses/level-1.md
+    - Level 2：AP/IB 專題: courses/level-2.md
+    - Level 3：數值方法與優化: courses/level-3.md
+    - Level 4：Research Capstone: courses/level-4.md
+  - 定價與優惠: pricing.md
+  - 補習班合作: partner.md
+  - 常見問題: faq.md
+
+docs_dir: docs
+
+plugins:
+  - search:
+      lang: zh
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html

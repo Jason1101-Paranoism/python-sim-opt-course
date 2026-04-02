@@ -10,8 +10,8 @@ updated: 2026-04-01
 
 ## 現況快照
 
-**已完成**：Phase 0（21 個）✅ + Phase 1A（6 個）✅ + Phase 2（4 個）✅ + Phase 3A（40 個）✅ = 71 個
-**待完成**：策略文件（Phase 1B–F）× 14、週次教材（Level 2–4）× 120、對外文件 × 10
+**已完成**：Phase 0（21 個）✅ + Phase 1A（4 個）✅ + Phase 1B（2 個）✅ + Phase 1C（6 個）✅ + Phase 1D（6 個）✅ + Phase 2（4 個）✅ + Phase 3A（40 個）✅ = 83 個
+**待完成**：策略文件（Phase 1E–F）× 7、週次教材（Level 2–4）× 120、對外文件 × 10
 
 > 進度追蹤規則：每次執行前後必須更新 `backlog.md` 與本文件。詳見 `CLAUDE.md § Progress Tracking Workflow`。
 
@@ -50,27 +50,27 @@ updated: 2026-04-01
 | `progression-rules.md` | 誰可直升、誰要先測驗、邊界案例 | ★★★ ✅ |
 | `assessment-rubrics.md` | 各級評分規準（程式/模型/分析/報告/展示） | ★★★ ✅ |
 
-### 1C — 營運政策（`03_operations/`）
+### 1C — 營運政策（`03_operations/`）✅
 
 | 檔案 | 內容摘要 | 優先度 |
 |------|----------|--------|
-| `scheduling-policy.md` | 開課時間、排課原則、假日與段考週 | ★★ |
-| `attendance-makeup-policy.md` | 請假、補課、1-on-1 重排、錄影補發 | ★★ |
-| `placement-and-promotion.md` | 課前評估、升級、轉班、降級機制 | ★★ |
-| `refund-transfer-policy.md` | 退費、轉班、停修、保留名額 | ★★ |
-| `parent-communication-policy.md` | 何時回報家長、用什麼形式、發什麼內容 | ★ |
-| `crisis-backup-plan.md` | 你請假、報名不足、實體改線上等應變 | ★ |
+| `scheduling-policy.md` | 開課時間、排課原則、假日與段考週 | ★★ ✅ |
+| `attendance-makeup-policy.md` | 請假、補課、1-on-1 重排、錄影補發 | ★★ ✅ |
+| `placement-and-promotion.md` | 課前評估、升級、轉班、降級機制 | ★★ ✅ |
+| `refund-transfer-policy.md` | 退費、轉班、停修、保留名額 | ★★ ✅ |
+| `parent-communication-policy.md` | 何時回報家長、用什麼形式、發什麼內容 | ★ ✅ |
+| `crisis-backup-plan.md` | 你請假、報名不足、實體改線上等應變 | ★ ✅ |
 
-### 1D — 行銷補充（`05_marketing/`）
+### 1D — 行銷補充（`05_marketing/`）✅
 
 | 檔案 | 內容摘要 | 優先度 |
 |------|----------|--------|
-| `faq.md` | Python 程度、作業量、是否影響課業、銜接 AP/IB 等 | ★★★ |
-| `product-pages.md` | 每一級課程頁區塊（對象/收穫/內容/成果/報名條件） | ★★ |
-| `parent-personas.md` | 三類家長的痛點與購買理由 | ★★ |
-| `cram-school-pitch.md` | 補習班合作提案大綱與話術 | ★★ |
-| `school-partner-pitch.md` | 學校合作提案大綱 | ★ |
-| `social-copy-bank.md` | 招生貼文、DM 標題、EDM 標題 | ★ |
+| `faq.md` | Python 程度、作業量、是否影響課業、銜接 AP/IB 等 | ★★★ ✅ |
+| `product-pages.md` | 每一級課程頁區塊（對象/收穫/內容/成果/報名條件） | ★★ ✅ |
+| `parent-personas.md` | 三類家長的痛點與購買理由 | ★★ ✅ |
+| `cram-school-pitch.md` | 補習班合作提案大綱與話術 | ★★ ✅ |
+| `school-partner-pitch.md` | 學校合作提案大綱 | ★ ✅ |
+| `social-copy-bank.md` | 招生貼文、DM 標題、EDM 標題 | ★ ✅ |
 
 ### 1E — 行銷商業補充（`04_business/`）
 

@@ -4,6 +4,7 @@ type: admin
 audience: internal
 status: draft
 last_updated: 2026-04-01
+phase_1c_completed: 2026-04-01
 ---
 
 # 任務待辦清單
@@ -62,23 +63,23 @@ last_updated: 2026-04-01
 
 ## Phase 1C：營運政策（`03_operations/`）
 
-- [ ] `03_operations/scheduling-policy.md`
-- [ ] `03_operations/attendance-makeup-policy.md`
-- [ ] `03_operations/placement-and-promotion.md`
-- [ ] `03_operations/refund-transfer-policy.md`
-- [ ] `03_operations/parent-communication-policy.md`
-- [ ] `03_operations/crisis-backup-plan.md`
+- [x] `03_operations/scheduling-policy.md` ✅
+- [x] `03_operations/attendance-makeup-policy.md` ✅
+- [x] `03_operations/placement-and-promotion.md` ✅
+- [x] `03_operations/refund-transfer-policy.md` ✅
+- [x] `03_operations/parent-communication-policy.md` ✅
+- [x] `03_operations/crisis-backup-plan.md` ✅
 
 ---
 
 ## Phase 1D：行銷補充（`05_marketing/`）
 
-- [ ] `05_marketing/faq.md`
-- [ ] `05_marketing/product-pages.md`
-- [ ] `05_marketing/parent-personas.md`
-- [ ] `05_marketing/cram-school-pitch.md`
-- [ ] `05_marketing/school-partner-pitch.md`
-- [ ] `05_marketing/social-copy-bank.md`
+- [x] `05_marketing/faq.md` ✅
+- [x] `05_marketing/product-pages.md` ✅
+- [x] `05_marketing/parent-personas.md` ✅
+- [x] `05_marketing/cram-school-pitch.md` ✅
+- [x] `05_marketing/school-partner-pitch.md` ✅
+- [x] `05_marketing/social-copy-bank.md` ✅
 
 ---
 

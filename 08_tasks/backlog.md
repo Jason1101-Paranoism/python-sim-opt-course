@@ -3,8 +3,10 @@ title: Task Backlog
 type: admin
 audience: internal
 status: draft
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 phase_1c_completed: 2026-04-01
+phase_1ef_completed: 2026-04-02
+phase_3b_completed: 2026-04-02
 ---
 
 # 任務待辦清單
@@ -85,18 +87,18 @@ phase_1c_completed: 2026-04-01
 
 ## Phase 1E：商業補充（`04_business/`）
 
-- [ ] `04_business/sales-objections.md`
+- [x] `04_business/sales-objections.md` ✅
 
 ---
 
 ## Phase 1F：行政補充（`06_admin/`）
 
-- [ ] `06_admin/intake-form-spec.md`
-- [ ] `06_admin/placement-test-spec.md`
-- [ ] `06_admin/onboarding-checklist.md`
-- [ ] `06_admin/student-progress-report-spec.md`
-- [ ] `06_admin/completion-certificate-spec.md`
-- [ ] `06_admin/consent-and-ip-policy.md`
+- [x] `06_admin/intake-form-spec.md` ✅
+- [x] `06_admin/placement-test-spec.md` ✅
+- [x] `06_admin/onboarding-checklist.md` ✅
+- [x] `06_admin/student-progress-report-spec.md` ✅
+- [x] `06_admin/completion-certificate-spec.md` ✅
+- [x] `06_admin/consent-and-ip-policy.md` ✅
 
 ---
 
@@ -134,16 +136,16 @@ phase_1c_completed: 2026-04-01
 > ⚠️ 依賴：Phase 3A 完成
 > 輸出路徑：`09_outputs/teaching-materials/level-2/`
 
-- [ ] 週 01：課綱與範例專題拆解
-- [ ] 週 02：模型與模擬共通示範
-- [ ] 週 03：題目收斂與 RQ 寫法
-- [ ] 週 04：專題計畫書（Proposal）
-- [ ] 週 05：程式架構與初版模型
-- [ ] 週 06：中期分享
-- [ ] 週 07：參數掃描與（簡單）最佳化
-- [ ] 週 08：報告架構與寫作
-- [ ] 週 09：簡報與口頭問答
-- [ ] 週 10：期末展示與收尾
+- [x] 週 01：課綱與範例專題拆解 ✅
+- [x] 週 02：模型與模擬共通示範 ✅
+- [x] 週 03：題目收斂與 RQ 寫法 ✅
+- [x] 週 04：專題計畫書（Proposal）✅
+- [x] 週 05：程式架構與初版模型 ✅
+- [x] 週 06：中期分享 ✅
+- [x] 週 07：參數掃描與（簡單）最佳化 ✅
+- [x] 週 08：報告架構與寫作 ✅
+- [x] 週 09：簡報與口頭問答 ✅
+- [x] 週 10：期末展示與收尾 ✅
 
 ---
 

@@ -3,15 +3,15 @@ title: Master Build Plan
 type: admin
 audience: internal
 status: draft
-updated: 2026-04-01
+updated: 2026-04-02
 ---
 
 # 課程建立總計劃
 
 ## 現況快照
 
-**已完成**：Phase 0（21 個）✅ + Phase 1A（4 個）✅ + Phase 1B（2 個）✅ + Phase 1C（6 個）✅ + Phase 1D（6 個）✅ + Phase 2（4 個）✅ + Phase 3A（40 個）✅ = 83 個
-**待完成**：策略文件（Phase 1E–F）× 7、週次教材（Level 2–4）× 120、對外文件 × 10
+**已完成**：Phase 0（21 個）✅ + Phase 1A（4 個）✅ + Phase 1B（2 個）✅ + Phase 1C（6 個）✅ + Phase 1D（6 個）✅ + Phase 1E（1 個）✅ + Phase 1F（6 個）✅ + Phase 2（4 個）✅ + Phase 3A（40 個）✅ + Phase 3B（40 個）✅ = 130 個
+**待完成**：週次教材（Level 3–4）× 80、對外文件 × 10
 
 > 進度追蹤規則：每次執行前後必須更新 `backlog.md` 與本文件。詳見 `CLAUDE.md § Progress Tracking Workflow`。
 
@@ -22,10 +22,10 @@ updated: 2026-04-01
 | 階段 | 名稱 | 產出 | 目的 |
 |------|------|------|------|
 | Phase 0 | 基礎規格 ✅ | 21 個 md | Claude Code 可以動工的最小集合 |
-| Phase 1 | 策略文件補完（進行中 6/20）| ~20 個 md | 讓所有政策、流程、行銷說法有依據 |
+| Phase 1 | 策略文件補完 ✅ | ~20 個 md | 讓所有政策、流程、行銷說法有依據 |
 | Phase 2 | 模板層 ✅ | 4 個 md | 讓教材生成有統一格式可套用 |
 | Phase 3A | Level 1 週次教材 ✅ | 40 個 md | 第一級完整可授課 |
-| Phase 3B | Level 2 週次教材 | 40 個 md | 第二級完整可授課 |
+| Phase 3B | Level 2 週次教材 ✅ | 40 個 md | 第二級完整可授課 |
 | Phase 3C | Level 3 週次教材 | 40 個 md | 第三級完整可授課 |
 | Phase 3D | Level 4 週次教材 | 40 個 md | 第四級完整可授課 |
 | Phase 4 | 對外文件 | ~15 個 md | 招生用、合作提案用 |
@@ -76,18 +76,18 @@ updated: 2026-04-01
 
 | 檔案 | 內容摘要 | 優先度 |
 |------|----------|--------|
-| `sales-objections.md` | 家長與補習班最常見反對意見與標準回覆 | ★★ |
+| `sales-objections.md` | 家長與補習班最常見反對意見與標準回覆 | ★★ ✅ |
 
-### 1F — 行政補充（`06_admin/`）
+### 1F — 行政補充（`06_admin/`）✅
 
 | 檔案 | 內容摘要 | 優先度 |
 |------|----------|--------|
-| `intake-form-spec.md` | 報名表欄位規格 | ★★ |
-| `placement-test-spec.md` | 程度測驗題型、評分、分流標準 | ★★ |
-| `onboarding-checklist.md` | 學生錄取後的完成清單（環境安裝、同意書等） | ★★ |
-| `student-progress-report-spec.md` | 期中／期末回饋報告格式 | ★ |
-| `completion-certificate-spec.md` | 結業證書格式與欄位 | ★ |
-| `consent-and-ip-policy.md` | 作品使用同意、隱私與宣傳授權 | ★ |
+| `intake-form-spec.md` | 報名表欄位規格 | ★★ ✅ |
+| `placement-test-spec.md` | 程度測驗題型、評分、分流標準 | ★★ ✅ |
+| `onboarding-checklist.md` | 學生錄取後的完成清單（環境安裝、同意書等） | ★★ ✅ |
+| `student-progress-report-spec.md` | 期中／期末回饋報告格式 | ★ ✅ |
+| `completion-certificate-spec.md` | 結業證書格式與欄位 | ★ ✅ |
+| `consent-and-ip-policy.md` | 作品使用同意、隱私與宣傳授權 | ★ ✅ |
 
 ---
 
@@ -127,22 +127,22 @@ updated: 2026-04-01
 | 09 | 小報告寫作練習 | 待建 |
 | 10 | 展示與反思 | 待建 |
 
-### Phase 3B — Level 2（10 週 × 4 份 = 40 份）
+### Phase 3B — Level 2（10 週 × 4 份 = 40 份）✅
 
 輸出路徑：`09_outputs/teaching-materials/level-2/`
 
 | 週 | 主題 | 狀態 |
 |----|------|------|
-| 01 | 課綱與範例專題拆解 | 待建 |
-| 02 | 模型與模擬共通示範 | 待建 |
-| 03 | 題目收斂與 RQ 寫法 | 待建 |
-| 04 | 專題計畫書（Proposal） | 待建 |
-| 05 | 程式架構與初版模型 | 待建 |
-| 06 | 中期分享 | 待建 |
-| 07 | 參數掃描與（簡單）最佳化 | 待建 |
-| 08 | 報告架構與寫作 | 待建 |
-| 09 | 簡報與口頭問答 | 待建 |
-| 10 | 期末展示與收尾 | 待建 |
+| 01 | 課綱與範例專題拆解 | 完成 ✅ |
+| 02 | 模型與模擬共通示範 | 完成 ✅ |
+| 03 | 題目收斂與 RQ 寫法 | 完成 ✅ |
+| 04 | 專題計畫書（Proposal） | 完成 ✅ |
+| 05 | 程式架構與初版模型 | 完成 ✅ |
+| 06 | 中期分享 | 完成 ✅ |
+| 07 | 參數掃描與（簡單）最佳化 | 完成 ✅ |
+| 08 | 報告架構與寫作 | 完成 ✅ |
+| 09 | 簡報與口頭問答 | 完成 ✅ |
+| 10 | 期末展示與收尾 | 完成 ✅ |
 
 ### Phase 3C — Level 3（10 週 × 4 份 = 40 份）
 

@@ -3,7 +3,7 @@ title: Task Backlog
 type: admin
 audience: internal
 status: draft
-last_updated: 2026-04-02
+last_updated: 2026-04-06
 phase_1c_completed: 2026-04-01
 phase_1ef_completed: 2026-04-02
 phase_3b_completed: 2026-04-02
@@ -154,16 +154,16 @@ phase_3b_completed: 2026-04-02
 > ⚠️ 依賴：Phase 3B 完成
 > 輸出路徑：`09_outputs/teaching-materials/level-3/`
 
-- [ ] 週 01：目標與舊專題回顧
-- [ ] 週 02：NumPy：陣列與向量化
-- [ ] 週 03：SciPy：基本數值方法
-- [ ] 週 04：SciPy：簡單 ODE 模型
-- [ ] 週 05：最佳化入門
-- [ ] 週 06：高級專題選題與方法設計
-- [ ] 週 07：專題實作：模型與數值方法
-- [ ] 週 08：專題實作：最佳化與敏感度分析
-- [ ] 週 09：技術寫作與簡報
-- [ ] 週 10：作品集展示與整理
+- [x] 週 01：目標與舊專題回顧 ✅
+- [x] 週 02：NumPy：陣列與向量化 ✅
+- [x] 週 03：SciPy：基本數值方法 ✅
+- [x] 週 04：SciPy：簡單 ODE 模型 ✅
+- [x] 週 05：最佳化入門 ✅
+- [x] 週 06：高級專題選題與方法設計 ✅
+- [x] 週 07：專題實作：模型與數值方法 ✅
+- [x] 週 08：專題實作：最佳化與敏感度分析 ✅
+- [x] 週 09：技術寫作與簡報 ✅
+- [x] 週 10：作品集展示與整理 ✅
 
 ---
 
@@ -172,16 +172,16 @@ phase_3b_completed: 2026-04-02
 > ⚠️ 依賴：Phase 3C 完成
 > 輸出路徑：`09_outputs/teaching-materials/level-4/`
 
-- [ ] 週 01：研究型專題 vs 一般 project
-- [ ] 週 02：文獻搜尋策略
-- [ ] 週 03：文獻閱讀與分析矩陣
-- [ ] 週 04：文獻回顧寫作
-- [ ] 週 05：研究問題與 gap 精煉
-- [ ] 週 06：方法章設計與寫作
-- [ ] 週 07：實驗與結果呈現（研究版）
-- [ ] 週 08：討論、限制與未來工作
-- [ ] 週 09：全文整合與學術寫作細節
-- [ ] 週 10：研究簡報與口試模擬
+- [x] 週 01：研究型專題 vs 一般 project ✅
+- [x] 週 02：文獻搜尋策略 ✅
+- [x] 週 03：文獻閱讀與分析矩陣 ✅
+- [x] 週 04：文獻回顧寫作 ✅
+- [x] 週 05：研究問題與 gap 精煉 ✅
+- [x] 週 06：方法章設計與寫作 ✅
+- [x] 週 07：實驗與結果呈現（研究版）✅
+- [x] 週 08：討論、限制與未來工作 ✅
+- [x] 週 09：全文整合與學術寫作細節 ✅
+- [x] 週 10：研究簡報與口試模擬 ✅
 
 ---
 
@@ -190,15 +190,15 @@ phase_3b_completed: 2026-04-02
 > ⚠️ 依賴：Phase 1D + Phase 1E 完成
 
 ### 招生文件（`09_outputs/marketing/`）
-- [ ] 系列總覽一頁紙
-- [ ] `level-1-course-brief.md`
-- [ ] `level-2-course-brief.md`
-- [ ] `level-3-course-brief.md`
-- [ ] `level-4-course-brief.md`
-- [ ] `faq-for-parents.md`
+- [x] `course-series-overview.md` ✅
+- [x] `level-1-course-brief.md` ✅
+- [x] `level-2-course-brief.md` ✅
+- [x] `level-3-course-brief.md` ✅
+- [x] `level-4-course-brief.md` ✅
+- [x] `faq-for-parents.md` ✅
 
 ### 合作提案文件（`09_outputs/partner-docs/`）
-- [ ] `cram-school-pitch-deck.md`（中文）
-- [ ] `school-partner-proposal.md`（中文）
-- [ ] `pricing-revenue-matrix.md`（試算表文字版）
-- [ ] `international-course-description.md`（英文，Upwork/LinkedIn 用）
+- [x] `cram-school-pitch-deck.md`（中文）✅
+- [x] `school-partner-proposal.md`（中文）✅
+- [x] `pricing-revenue-matrix.md`（試算表文字版）✅
+- [x] `international-course-description.md`（英文，Upwork/LinkedIn 用）✅
